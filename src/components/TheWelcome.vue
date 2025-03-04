@@ -75,7 +75,7 @@ const openReadmeInEditor = () => fetch('/__open-in-editor?file=README.md')
     <template #icon>
       <SupportIcon />
     </template>
-    <template #heading>Support Vue</template>
+    <template #heading>쪼롤은 사랑이다</template>
 
     As an independent project, Vue relies on community backing for its sustainability. You can help
     us by
