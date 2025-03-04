@@ -51,7 +51,7 @@ const openReadmeInEditor = () => fetch('/__open-in-editor?file=README.md')
     </template>
     <template #heading>육각형</template>
 
-    메이플하면 진정한 육각형의 사나이
+    메이플하면 진정한 육각형의 사나이 ㄱㅁㄷㅇㅈ?
   </WelcomeItem>
 
   <WelcomeItem>
