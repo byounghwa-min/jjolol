@@ -25,7 +25,7 @@ const openReadmeInEditor = () => fetch('/__open-in-editor?file=README.md')
     </template>
     <template #heading>가방도 좀 사고!</template>
 
-    ㅉㄺ는 가방에 넣어도 눈이 아프다 ㄱㅁㄷㅇㅈ?
+    ㅉㄺ는 가방에 넣어도 눈이 아프다 ㄱㅁㄷㅇㅈ??
   </WelcomeItem>
 
   <WelcomeItem>
